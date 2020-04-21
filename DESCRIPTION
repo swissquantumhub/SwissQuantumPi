@@ -1,0 +1,16 @@
+Package: SwissQuantumPi
+Type: Package
+Author: Tinniam V Ganesh
+Author: Franck Franchin
+Maintainer: Franck Franchin <franckf@swissquantumhub.com>
+Title: 5 Qubit Quantum Computing Simulator
+Version: 0.0.2
+Description: This package simulates a 5 qubit Quantum Computer.
+LazyData: TRUE
+License: MIT + file LICENSE
+Depends:
+    R (>= 3.1.2)
+Imports:
+    ggplot2
+URL: https://github.com/swissquantumhub/SwissQuantumPi
+RoxygenNote: 5.0.1
